@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Murilo </h2>
 
-<img height=200 align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=M-z3r0&theme=tokyonight&layout=compact' />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-z3r0&theme=tokyonight&layout=compact" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
