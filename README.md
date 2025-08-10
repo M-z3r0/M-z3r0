@@ -1,4 +1,3 @@
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=M-z3r0&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-z3r0&layout=compact&theme=dark)
 
 <div align="left">
